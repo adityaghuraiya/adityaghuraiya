@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adityaghuraiya
-- 👀 I’m interested in Machine Learning and Data science
-- 🌱 I’m currently learning Ml and want to make my career in ML/Data Science Field
+- 👋 Hi, I’m @adityaghuraiya a Software Engineer
+- 👀 I’m interested in Machine Learning and Data science, Cloud Computing
+- 🌱 I’m currently learning Ml and want to make my career in ML/Data Science Field and Cloud Computing Field
 - LinkedIn - https://www.linkedin.com/in/adityaghuraiya/
 - Email - aditya.ghuraiya88@gmail.com
 
